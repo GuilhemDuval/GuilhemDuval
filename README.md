@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello, world 👋
 
-<!--
-**GuilhemDuval/GuilhemDuval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je cadre et coordonne des projets numériques immersifs pour la médiation culturelle et la pédagogie interactive.
 
-Here are some ideas to get you started:
+Ce GitHub documente ma maîtrise technique comme appui à mon rôle transversal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___________
+
+#### 🧭 Ce que j’apporte sur des projets numériques interactifs
+
+- Cadrage du besoin
+- Coordination de production
+- Conception d’expériences interactives
+- Médiation de contenus complexes
+- Articulation technico-créative
+- Prototypage numérique
+
+___________
+
+#### 🛠️ Mes compétences techniques
+
+- Web : HTML, CSS, JavaScript, Vue.js, PHP
+- Jeux : Godot, Unity, C#
+- 3D : OpenGL, C++
+- Création interactive : Processing, p5.js
+- Outils : Git, Perforce, documentation, intégration, UI
+
+___________
+
+#### 📁 Ce que vous trouverez ici
+
+Des expériences immersives partagées, des jeux vidéo, des serious games, des webdocs, des applications web et des interfaces.
