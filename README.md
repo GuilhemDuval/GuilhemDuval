@@ -17,7 +17,7 @@ ___________
 
 ___________
 
-#### 🛠️ Mes compétences techniques
+#### 🛠️ Les compétences techniques sur lesquelles je m’appuie
 
 - Web : HTML, CSS, JavaScript, Vue.js, PHP
 - Jeux : Godot, Unity, C#
