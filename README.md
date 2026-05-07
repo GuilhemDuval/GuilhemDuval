@@ -24,9 +24,3 @@ ___________
 - 3D : OpenGL, C++
 - Création interactive : Processing, p5.js
 - Outils : Git, Perforce, documentation, intégration, UI
-
-___________
-
-#### 📁 Ce que vous trouverez ici
-
-Des expériences immersives partagées, des jeux vidéo, des serious games, des webdocs, des applications web et des interfaces.
